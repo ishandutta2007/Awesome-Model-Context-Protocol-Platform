@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/modelcontextprotocol"><img src="https://img.shields.io/badge/MCP-Standard-blue?style=flat-square&logo=anthropic" alt="MCP Standard" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Model-Context-Protocol-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Model-Context-Protocol-Platform?style=flat-square" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Model-Context-Protocol-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Model-Context-Protocol-Platform?style=flat-square" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Model-Context-Protocol-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Model-Context-Protocol-Platform?style=flat-square" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Model-Context-Protocol-Platform/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Model-Context-Protocol-Platform?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,9 +63,9 @@ Below is a curated comparison table of commercial & hosted MCP platforms, sorted
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a curated, expanded list of leading open-source repositories powering the MCP ecosystem, sorted by **GitHub Stars** in descending order.
+Below is a curated, expanded list of leading open-source repositories powering the MCP ecosystem, sorted by **GitHub_Stars** in descending order.
 
-| 📦 Repository & Link | ⭐ GitHub Stars | 📜 Description |
+| 📦 Repository & Link | ⭐ GitHub_Stars | 📜 Description |
 | :--- | :--- | :--- |
 | **[Playwright Browser Automation](https://github.com/microsoft/playwright)** | [![Playwright Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) | Official web automation library powering browser control MCP servers. |
 | **[Model Context Protocol Specification & SDKs](https://github.com/modelcontextprotocol)** | [![MCP Org Stars](https://img.shields.io/github/stars/modelcontextprotocol/specification?style=social&color=white)](https://github.com/modelcontextprotocol/specification/stargazers) | Official open standard specification, TypeScript SDK, Python SDK, and core architecture. |
@@ -86,7 +86,7 @@ Contributions are very welcome! To add or update a hosted platform or open-sourc
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Edit** `README.md` following the tabular format and inclusion criteria.
-3. 🔍 Ensure pricing details, free tier limits, star badges, and links are fully factual and accurate.
+3. 🔍 Ensure pricing details, free tier limits, Stars_Badges, and links are fully factual and accurate.
 4. 🚀 **Submit** a Pull Request with a clear title and description.
 
 ---
